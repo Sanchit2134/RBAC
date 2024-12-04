@@ -68,7 +68,7 @@ Ensure you have the following installed:
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/rbac-ui.git
+   git clone https://github.com/Sanchit2134/RBAC.git
    ```
 2. Navigate to the project directory:
    ```bash
