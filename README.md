@@ -105,3 +105,7 @@ Ensure you have the following installed:
 - **React.js**: For building the component-based UI.
 - **Tailwind CSS**: For styling and responsiveness.
 
+---
+
+## License
+This project is licensed under the MIT License.
